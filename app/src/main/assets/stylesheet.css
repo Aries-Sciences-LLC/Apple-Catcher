@@ -1,0 +1,22 @@
+img.basket {
+  position: absolute;
+  top: 85%;
+}
+
+img.apple {
+  position: absolute;
+  top: -50px;
+}
+
+p.game_score {
+  font-size: 20px;
+}
+
+img.bg {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
